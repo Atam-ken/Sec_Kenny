@@ -1,5 +1,8 @@
 # Hello, I'm Kenneth Atampugre
-<a href="https://https://www.linkedin.com/in/kenneth-atampugre-02288126b/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/kenneth-atampugre-02288126b/">
+  <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
 
 
 I am a Computer Science student at the University of Cape Coast with a strong interest in cybersecurity, and IT infrastructure. My journey blends academic learning with self-driven exploration into areas such as blue team operations, Network, Linux, Active Directory, Python Programming.
