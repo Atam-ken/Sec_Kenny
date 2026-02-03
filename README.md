@@ -18,7 +18,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/Atam-ken/Detection-Lab/tree/main">Detection Lab</a>|
 | Vulnerability Assessment with Nessus          |  Nessus |
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Log Analyzer Tool with Python  | <a href="https://github.com/Atam-ken/SOC-Log-Analyzer">SOC Log Anlyzer</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
